@@ -46,7 +46,17 @@
 ## 7일차
 - 파이썬 데이터분석
     - numpy 기본
-    - matplotlib
+    - matplotlib 기본
+
+## 8일차
+- 파이썬 데이터분석
     - selenium
+    - beautifulSoup
+    - 예제
+        - 회사 웹사이트 이미지 다운로드
+        - 멜론 차트 노래순위 csv 저장
+        - 벅스 인기차트 상위곡 100 csv 저장
+    - 코로나 중국 관광객
+
     
 
