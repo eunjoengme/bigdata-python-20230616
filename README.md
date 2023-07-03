@@ -81,3 +81,8 @@
     - 워드클라우드
 
 <img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling05.png" width="700" alt="워드클라우드 결과">
+
+## 12일차
+- 파이썬 데이터분석 실습
+    - 서울 스타벅스 매장 분석
+    
