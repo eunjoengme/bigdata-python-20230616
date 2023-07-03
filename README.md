@@ -85,6 +85,7 @@
 ## 12일차
 - 파이썬 데이터분석 실습
     - 서울 스타벅스 매장 분석
-        - 스타벅스 웹사이트 매장 지역검색 셀리니움 지역 검색
-        - 
-    - 
+        - 스타벅스 웹사이트 매장 지역검색 셀레니움 데이터 수집
+        - 서울열린데이터광장 행정구역, 인구, 사업체 데이터 수집
+    
+<img src="https://github.com/eunjoyme/bigdata-python-20230616/blob/main/images/crawling06.png" width="700" alt="지도 시각화 결과">
