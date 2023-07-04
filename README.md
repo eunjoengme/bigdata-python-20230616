@@ -89,3 +89,9 @@
         - 서울열린데이터광장 행정구역, 인구, 사업체 데이터 수집
     
 <img src="https://raw.githubusercontent.com/eunjoyme/bigdata-python-20230616/main/images/crawling06.png" width="700" alt="지도 시각화 결과">
+
+## 13일차
+- 파이썬 데이터분석 실습
+    - 서울 스타벅스 매장 분석
+        - 지도 시각화 계속
+        - 지도 분석
