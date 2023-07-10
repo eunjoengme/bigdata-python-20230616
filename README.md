@@ -104,3 +104,9 @@
 ## 15일차
 - 파이썬 데이터분석 실습
     - 다나와 무선청소기 전처리 데이터 시각화/분석
+
+## 16일차
+- 파이썬 데이터분석 실습
+    - 환경관련 데이터 분석
+
+<img src="https://raw.githubusercontent.com/eunjoyme/bigdata-python-20230616/main/images/crawling06.png" width="700" alt="지도 시각화 결과">
